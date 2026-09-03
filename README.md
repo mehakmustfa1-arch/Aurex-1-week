@@ -31,3 +31,10 @@ Built a basic HTML Personal Profile/Developer Introduction webpage with required
 
 ### Blockers/Difficulties
 No blockers faced. Completed all tasks within time.
+### Screenshots for Submission
+
+**1. GitHub Repository**
+![Repo Screenshot](wa_image_1908936814869047151.jpg)
+
+**2. Live Website**
+![Website Screenshot](wa_image_1974242361029293763.jpg)
